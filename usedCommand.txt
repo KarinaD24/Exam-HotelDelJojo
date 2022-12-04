@@ -1,0 +1,10 @@
+command yang digunakan:
+1. ls -> untuk...
+2. mkdir <nama folder> -> untuk membuat folder baru
+3. sudo su -> super user untuk mengatasi permission denied
+4. cd -> (change directory) untuk pindah lokasi file
+5. nano -> untuk membuat file
+6. tree -a ./hotel-del-jojo -> untuk melihat module tree dari folder hotel-del-jojo
+7. mv -> untuk memindahkan file / rename file
+
+
